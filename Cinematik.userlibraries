@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="balloontip" />
+  <library name="jcalendar">
+    <archive path="C:/Users/Neutro/IdeaProjects/Cinematik/lib/jcalendar.jar" />
+  </library>
+</eclipse-userlibraries>
+
